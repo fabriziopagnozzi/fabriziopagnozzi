@@ -1,6 +1,5 @@
-### Hi, I'm Fabrizio 👋
-
 Backend engineer, working on **APIs, document pipelines and RAG systems**.
+
 MSc in Computer Science and Engineering at Politecnico di Milano.
 
 **Stack**
